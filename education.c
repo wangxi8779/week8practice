@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 
+#include <stdio.h>
+#include <string.h>
+
 int main(void) {
   int years;
   printf("enter the number of years you spent in education: ");
@@ -13,7 +16,7 @@ int main(void) {
   } else if (years >= 13) {
     strcpy(educationLevel, "Tertiary");
   }
-  printf("The level of your eduction is: %s level education.\n", 
+  printf("The level of your eduction is: %s level education.\n",
          educationLevel);
   return 0;
 }

@@ -13,8 +13,6 @@ int main(void) {
   } else if (years >= 13) {
     strcpy(educationLevel, "Tertiary");
   }
-  printf("The level of your eduction is: %s level education.\n",
-         educationLevel);
+  printf("The level of your eduction is: %s level education\n", educationLevel);
   return 0;
 }
-

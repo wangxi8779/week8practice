@@ -1,0 +1,4 @@
+input         output 
+20          The level of your eduction is: Tertiary level education.
+0           The level of your eduction is: Primary level education.
+12          The level of your eduction is: Secondary level education.

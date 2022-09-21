@@ -1,0 +1,4 @@
+name        age      fraction          output      
+xi wang     35        0.8        Your name is xi wang, you are 35 years old and your employment fraction is 0.8.
+JASON Tian  20        0          Your name is JASON TIAN, you are 20 years old and your employment fraction is 0.0.
+Mia Tian    2         1          Your name is Mia Tian, you are 2 years old and your employment fraction is 1.0.

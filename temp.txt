@@ -1,0 +1,5 @@
+Input          output
+
+0              0 degrees Celsius is 32 degrees Fahrenheit
+37             37 degrees Celsius is 98 degrees Fahrenheit
+-37            -37 degrees Celsius is -34 degrees Fahrenheit

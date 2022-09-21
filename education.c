@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-#include <stdio.h>
-#include <string.h>
-
 int main(void) {
   int years;
   printf("enter the number of years you spent in education: ");

@@ -17,3 +17,4 @@ int main(void) {
          educationLevel);
   return 0;
 }
+
